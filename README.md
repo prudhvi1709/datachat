@@ -83,3 +83,6 @@ All dependencies are loaded via CDN:
 ## License
 
 [MIT](LICENSE)
+
+---
+> **This is Demo. contains no confidential data/IP**
